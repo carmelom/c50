@@ -1,5 +1,8 @@
 # Ignore list for Eagle, a PCB layout tool
 
+# Cartella di cose a caso
+stuff/*
+
 # Backup files
 *.s#?
 *.b#?

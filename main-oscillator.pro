@@ -1,9 +1,9 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /home/carmelo/eagle/50hz/main-oscillator.brd
+Job           : /home/carmelo/eagle/bec/50hz/main-oscillator.brd
 
-Start at      : 17:28:38 (12/15/15)
-End at        : 17:29:25 (12/15/15)
+Start at      : 15:10:25 (12/16/15)
+End at        : 15:10:28 (12/16/15)
 Elapsed time  : 00:00:01
 
 Signals       :    11   RoutingGrid: 12.5 mil  Layers: 1
